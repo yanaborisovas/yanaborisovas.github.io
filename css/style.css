@@ -102,7 +102,7 @@ img.ava {
     background: url('../img/bg-left.jpg');
     font-family: "Roboto-Regular";
     padding: 36px;
-    padding-bottom: 111px;
+    padding-bottom: 217px;
 }
 
 section .content {
@@ -167,7 +167,7 @@ p.s-left-txt {
 }
 .scills-line {
     height: 23px;
-    width: 53%;
+    width: 97%;
     background: #eea7a3;
     border-bottom-right-radius: 10px;
     border-top-right-radius: 10px;
@@ -187,6 +187,8 @@ p.s-left-txt {
     height: 23px;
     z-index: 1;
     position: relative;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
 }
 img.flag {
     position: absolute;
@@ -248,7 +250,7 @@ img.flag {
     padding-bottom: 10px;
 }
 .scills-2 .scills-line{
- width: 85%;   
+ width: 97%;   
 }
 .scills-3 .scills-line {
     width: 72%;
@@ -257,7 +259,7 @@ img.flag {
  width: 65%;   
 }
 .scills-5 .scills-line {
-    width: 65%;
+    width: 20%;
 }
 
 .contact {
